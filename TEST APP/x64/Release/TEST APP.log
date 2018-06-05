@@ -1,0 +1,17 @@
+﻿  Board.cpp
+Board.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Cell.cpp
+  Grid.cpp
+Grid.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Grid.cpp(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Test.cpp
+  Generating code
+  3 of 27 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TEST APP.vcxproj -> D:\SFML TEST PROJECT-20180605T094737Z-001\SFML TEST PROJECT\TEST APP\x64\Release\GameOfLife.exe
+  TEST APP.vcxproj -> D:\SFML TEST PROJECT-20180605T094737Z-001\SFML TEST PROJECT\TEST APP\x64\Release\GameOfLife.pdb (Full PDB)
